@@ -8,7 +8,7 @@
  - Pedalar
  
  #### Aprendendo atualmente: 
- - Banco de Dados com MySQL
+ - Node.js com Typescript
  - TailWind CSS 
 
 # Linguagens e ferramentas
