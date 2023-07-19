@@ -8,8 +8,7 @@
  - Pedalar
  
  #### Aprendendo atualmente: 
- - Node.js com Typescript
- - TailWind CSS 
+ - Python
 
 # Linguagens e ferramentas
 <div style="display: flex;">
