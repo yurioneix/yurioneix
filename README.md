@@ -8,7 +8,7 @@
  - Pedalar
  
  #### Aprendendo atualmente: 
- - Python
+ - Java
 
 # Linguagens e ferramentas
 <div style="display: flex;">
