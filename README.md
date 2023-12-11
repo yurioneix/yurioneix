@@ -1,5 +1,5 @@
 # Sobre mim 
- Olá, me chamo Yuri. Sou formado em Ciência da Computação e atualmente curso Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>. 
+ Olá, me chamo Yuri. Sou formado em Ciência da Computação e recém formado no curso Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>. 
  
  #### Meus hobbies são: 
  - Futebol
